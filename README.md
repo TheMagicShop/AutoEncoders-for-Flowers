@@ -54,10 +54,24 @@ here we used different values of weights in the weighted average, an alpha varyi
 
 <br/><br/> 
 
+- the fourth model was trained on the entire flower dataset , here are the results:
+
+the tracked image:
+
+![alt text](https://github.com/TheMagicShop/AutoEncoders-for-Flowers/blob/main/tracked_images/flower_gif.gif?raw=true)
+
+True vs Predicted:
+
+![alt text](https://github.com/TheMagicShop/AutoEncoders-for-Flowers/blob/main/figures/flowers_true_vs_predicted.png?raw=true)
+
+we also made a histogram plot for each dimension of the latent space after having projected all the dataset into that space, here are the histograms:
+
+![alt text](https://github.com/TheMagicShop/AutoEncoders-for-Flowers/blob/main/figures/flowers_latent_space_distribution.png?raw=true)
 
 
 
 
+<br/><br/> 
 <br/><br/> 
 <br/><br/> 
 <br/><br/> 
