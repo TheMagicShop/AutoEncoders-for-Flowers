@@ -54,4 +54,20 @@ here we used different values of weights in the weighted average, an alpha varyi
 
 <br/><br/> 
 
-HHHH
+
+
+
+
+<br/><br/> 
+<br/><br/> 
+<br/><br/> 
+
+the data is from kaggle, Licensed under CC0: Public Domain, we directly download it using this script:
+
+```
+# kaggle.json is downloadable token from kaggle
+!mkdir ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+!chmod 600 ~/.kaggle/kaggle.json
+!kaggle datasets download -d l3llff/flowers
+```
